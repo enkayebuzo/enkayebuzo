@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning cybersecurity fundamentals through structured training and practice  
 - 👯 I’m looking to collaborate on beginner-friendly cybersecurity projects and study groups  
 - 💬 Ask me about my cybersecurity learning journey  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nkiruka-ebuzoeme-840078191
+- 📫 How to reach me: [(https://www.linkedin.com/in/nkiruka-ebuzoeme-840078191]
 
 https://www.instagram.com/enkayebuzo?igsh=MWZhN3k3N3I1OWVpdA==
 
