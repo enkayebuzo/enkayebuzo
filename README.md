@@ -1,5 +1,5 @@
 ## Nkiruka Ebuzoeme 💚
-🔐 Cybersecurity Learner | Women Techsters Fellowship (Class of 2025/2026)  
+🔐 Cybersecurity Learner | Women Techsters Fellow (Class of 2025/2026)  
 📍 Nigeria
 ## Hi there 👋
 Get to know me more from my [CV].
