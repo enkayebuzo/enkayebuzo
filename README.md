@@ -1,12 +1,10 @@
-## Hi there 👋
-
-I’m Nkiruka Ebuzoeme ✨  
+## Nkiruka Ebuzoeme ✨  
 🔐 Cybersecurity Learner | Women Techsters Fellowship (Class of 2025/2026)  
 📍 Nigeria
-
+## Hi there 👋
 Get to know me more from my [CV].
 
-- 🔭 I’m currently working on  on improving my Cybersecurity Skills 
+- 🔭 I’m currently working on improving my Cybersecurity Skills 
 - 🌱 I’m currently learning: Cybersecurity at Tech4Dev | Russian language
 - 👯 I’m looking to collaborate on: Beginner-friendly cybersecurity projects and study groups  
 - 💬 Ask me about: My cybersecurity learning journey
