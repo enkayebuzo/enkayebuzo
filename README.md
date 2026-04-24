@@ -4,6 +4,8 @@
 
 ---
 
+## Get to know me more from my [CV](#).
+
 ## 👩‍💻 About Me
 - 🔭 Currently building my **cybersecurity skills**
 - 🌱 Learning: **Cybersecurity (Tech4Dev)** | **Russian (self-study)**
