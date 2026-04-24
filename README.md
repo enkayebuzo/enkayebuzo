@@ -6,13 +6,15 @@
 
 ## Get to know me more from my [CV](#).
 
+---
+
 ## 👩‍💻 About Me
 - 🔭 Currently building my **cybersecurity skills**
 - 🌱 Learning: **Cybersecurity (Tech4Dev)** | **Russian (self-study)**
-- 👯 Open to: **Beginner-friendly cybersecurity projects & study groups**
-- 💬 Ask me about: **My cybersecurity learning journey**
+- 👯 Open to: **beginner-friendly cybersecurity projects and study groups**
+- 💬 Ask me about: **my cybersecurity learning journey**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I love understanding how things work (even the hidden parts 👀)
+- ⚡ Fun fact: I enjoy understanding how things work (even the hidden parts 👀)
 
 ---
 
