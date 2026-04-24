@@ -39,9 +39,4 @@
 
 ---
 
-## 📊 GitHub Stats
-![Nkiruka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ✨ *“Security is not a product, but a process.”*
