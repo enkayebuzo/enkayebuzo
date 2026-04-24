@@ -1,14 +1,47 @@
-## Nkiruka Ebuzoeme 💚
-🔐 Cybersecurity Learner | Women Techsters Fellow (Class of 2025/2026)  
+# Hi, I'm Nkiruka Ebuzoeme 👋💚
 
-## Hi there 👋
-Get to know me more from my [CV].
+🔐 Cybersecurity Learner | Women Techsters Fellow (2025/2026)
 
-- 🔭 I’m currently working on improving my Cybersecurity Skills 
-- 🌱 I’m currently learning: Cybersecurity at Tech4Dev | Russian language (self-study)
-- 👯 I’m looking to collaborate on: Beginner-friendly cybersecurity projects and study groups  
-- 💬 Ask me about: My cybersecurity learning journey
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nkiruka-ebuzoeme-840078191), [Email](nkiruebuzo@gmail.com), [Instagram](https://www.instagram.com/enkayebuzo?igsh=MWZhN3k3N3I1OWVpdA==), [X](https://x.com/Enkayebuzo?t=sPYzd7qZt_5aKU0dvhmErQ&s=09), [Facebook](https://www.facebook.com/enkayebuzo?mibextid=ZbWKwL)
+---
 
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I’m always curious about how things work, sometimes a little too much!
+## 👩‍💻 About Me
+- 🔭 Currently building my **cybersecurity skills**
+- 🌱 Learning: **Cybersecurity (Tech4Dev)** | **Russian (self-study)**
+- 👯 Open to: **Beginner-friendly cybersecurity projects & study groups**
+- 💬 Ask me about: **My cybersecurity learning journey**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: I love understanding how things work (even the hidden parts 👀)
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/nkiruka-ebuzoeme-840078191)
+- 📧 [Email](mailto:nkiruebuzo@gmail.com)
+- 📸 [Instagram](https://www.instagram.com/enkayebuzo)
+- 🐦 [X (Twitter)](https://x.com/Enkayebuzo)
+- 👍 [Facebook](https://www.facebook.com/enkayebuzo)
+
+---
+
+## 🛠️ Skills & Tools (Learning Phase)
+- Networking Basics
+- Linux Fundamentals
+- Cybersecurity Fundamentals
+- OSINT (Beginner)
+
+---
+
+## 📌 Goals for 2026
+- ✔️ Build real-world cybersecurity projects
+- ✔️ Join cybersecurity communities
+- ✔️ Contribute to open-source
+- ✔️ Land my first cybersecurity role/internship
+
+---
+
+## 📊 GitHub Stats
+![Nkiruka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+✨ *“Security is not a product, but a process.”*
