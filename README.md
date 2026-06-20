@@ -1,8 +1,11 @@
-# Hi, I'm Nkiruka Ebuzoeme 👋💚
+# Nkiruka Ebuzoeme 👋💚
 
 🔐 Cybersecurity Learner | Women Techsters Fellow (2025/2026)
 
+✨ *“Security is not a product, but a process.”*
+
 ---
+# Hi, there,
 
 ## Get to know me more from my [CV](#).
 
@@ -43,4 +46,4 @@
 
 ---
 
-✨ *“Security is not a product, but a process.”*
+
