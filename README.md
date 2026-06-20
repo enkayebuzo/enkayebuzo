@@ -5,7 +5,7 @@
 ✨ *“Security is not a product, but a process.”*
 
 ---
-# Hi, there,
+# Hi, there 👋
 
 ## Get to know me more from my [CV](#).
 
@@ -45,5 +45,4 @@
 - ✔️ Land my first cybersecurity role/internship
 
 ---
-
 
